@@ -12,14 +12,21 @@ The work supports the accompanying course report “Evaluating DeLTA 2.0 for Gro
 - Calculation of percent change in area under the growth curve (AUC)
 
 ## Repository Contents
-├── Example_analysis.ipynb # Example workflow on sample data
-├── Analyzing_past_runs.ipynb # Analysis of previously processed results
-├── training_plot.png # Visualization of segmentation model training
-├── area-based_gr_trends.png # Example area growth curves
-├── length-based_gr_trends.png # Example length growth curves
-├── splitted_mask_overlay*.png # Examples of mask refinement results
-├── paper.pdf # The paper via you found this paper
-└── README.md # This file
+- Example_analysis.ipynb # Example workflow on sample data
+
+- Analyzing_past_runs.ipynb # Analysis of previously processed results
+
+- training_plot.png # Visualization of segmentation model training
+
+- area-based_gr_trends.png # Example area growth curves
+
+- length-based_gr_trends.png # Example length growth curves
+
+- splitted_mask_overlay*.png # Examples of mask refinement results
+
+- paper.pdf # The paper via you found this paper
+
+- README.md # This file
 
 ## Getting Started
 
